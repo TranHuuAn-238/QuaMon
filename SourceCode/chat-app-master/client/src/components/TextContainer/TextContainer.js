@@ -17,6 +17,12 @@ export const TextContainer = ({ users }) => (
         <br />
         Shawn Humphreys
         <br />
+        and is continued
+        <br />
+        to develop by
+        <br />
+        Qua Mon team
+        <br />
         using React, Express,
         <br />
         Node, and Socket.io
