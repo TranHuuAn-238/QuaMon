@@ -8,7 +8,7 @@ import SignIn from './components/SignIn/SignIn'
 const App = () => (
     <Router> //
         <Route path='/' exact component={SignIn} />
-        <Route path='/join' component={Join} />
+        <Route path='join' component={Join} />
         <Route path='/chat' component={Chat} />
     </Router>
 )

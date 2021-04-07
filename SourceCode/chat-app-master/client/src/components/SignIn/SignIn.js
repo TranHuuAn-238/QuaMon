@@ -114,7 +114,7 @@ export default function SignIn() {
               </Link>
             </Grid>
             <Grid item>
-              <Link href="#" variant="body2">
+              <Link href="file:///D:/CNPM/T%C3%A0i%20li%E1%BB%87u%20BTL/SourceCode/Template/SignUp2.html" variant="body2">
                 {"Don't have an account? Sign Up"}
               </Link>
             </Grid>
